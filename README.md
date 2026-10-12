@@ -86,6 +86,8 @@ After installation, you may want to have a look at the [wiki][wiki] and the `con
 
 If you want to compile the kernel yourself (e.g. if your distribution is not supported), please have a look at the [wiki][wiki-compiling].
 
+**Fedora 44:** the pre-built Fedora repository currently ships builds up to Fedora 43 only, so on Fedora 44 you need to build the kernel from source. See [`pkg/fedora/kernel-surface/FEDORA-44.md`](pkg/fedora/kernel-surface/FEDORA-44.md) for the full instructions.
+
 ## Additional Information
 
 ### Notes
